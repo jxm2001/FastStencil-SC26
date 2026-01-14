@@ -1,0 +1,12 @@
+[submodule "third_party/ConvStencil"]
+	path = third_party/ConvStencil
+	url = https://github.com/jxm2001/ConvStencil.git
+[submodule "third_party/LoRAStencil"]
+	path = third_party/LoRAStencil
+	url = https://github.com/jxm2001/LoRAStencil.git
+[submodule "third_party/FlashFFTStencil"]
+	path = third_party/FlashFFTStencil
+	url = https://github.com/jxm2001/FlashFFTStencil.git
+[submodule "third_party/EBISU"]
+	path = third_party/EBISU
+	url = https://github.com/jxm2001/EBISU-ICS23.git
